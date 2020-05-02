@@ -42,7 +42,6 @@ Now these spaces needs to appear like tictactoe game board , for that we use the
             print(board[6] + " | " + board[7] + " | " + board[8])
             print("\n")  
  ```    
-
 "\n" codes for spaces above and below the game board.
  
 Now we will make a main fn which will trigger all the steps involved in the game , we will name it "play_game" .
@@ -61,6 +60,7 @@ The while loop contains further steps or functions which needs to be repeated un
 the while loop will also contain the print statement to show whose turn it is.
 
 We will give a variable "current_player" and assign it an initial value "x" .  
+
 `Now we will define the handle_turn() fn :`
          
 1. Take the input from the user and assign it to the "position" variable,  
