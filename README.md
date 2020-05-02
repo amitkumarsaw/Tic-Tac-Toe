@@ -9,8 +9,7 @@ Under this project i'm making :
 ## `WHAT IS Tic-Tac-Toe GAME :`    
 Tic-Tac-Toe is a simple game played with 'X' and 'O'. the is made up of 3 rows and 3 columns :  
 
-` X | O | X`  
---
+` X | O | X `  
 ` O | X | X `  
 ` X | O | O `  
 
