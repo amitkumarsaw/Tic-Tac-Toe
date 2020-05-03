@@ -178,7 +178,7 @@ The game will stop when `game_still_going` gets a False value from any of the fu
 
 # EXECUTION : 
 
-### 1. Save the file in “c” drive > user > your_python_folder
+### 1. Save the file in  C:> users > your_python_folder
   
 ![path](https://user-images.githubusercontent.com/44708324/80893439-e8430480-8cef-11ea-913b-e53ad1e007ee.PNG)  
 
