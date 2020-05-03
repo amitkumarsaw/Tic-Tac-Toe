@@ -7,7 +7,7 @@ Under this project i'm making :
 * Tic-Tac-Toe web application  
 
 ## `WHAT IS Tic-Tac-Toe GAME :`    
-Tic-Tac-Toe is a simple game played with 'X' and 'O'. the is made up of 3 rows and 3 columns :  
+Tic-Tac-Toe is a simple game played with 'X' and 'O'. the game board is made up of 3 rows and 3 columns :  
 
 ` X | O | X `  
 ` O | X | X `  
@@ -17,7 +17,7 @@ Tic-Tac-Toe is a simple game played with 'X' and 'O'. the is made up of 3 rows a
 
 ## `WHICH EDITOR TO USE  :`
 
-Personally i'm using "VSCode" but u can also use ,  
+Personally i'm using "VSCode" but you can also use ,  
    * Spyder
    * PyCharm
    * Atom
@@ -32,8 +32,8 @@ Personally i'm using "VSCode" but u can also use ,
 
 # STRUCTURE :
 
-The program starts from a list of 9 members as we need 9 spaces in our tictactoe game.  
-Now these spaces needs to appear like tictactoe game board , for that we use the code below :  
+The program starts from a list of 9 members as we need 9 boxes in our tictactoe game.  
+Now these boxes need to look like tic-tac-toe game board , for that we use the code below :  
 ```python
         def display_board():
             print("\n")  
