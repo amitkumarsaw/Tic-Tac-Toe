@@ -28,7 +28,7 @@ Personally i'm using "VSCode" but you can also use ,
 
 > # CONSOLE BASED Tic-Tac-Toe GAME :
 
-# [COMPLETE CODE link](https://github.com/AMIT-ZING/Tic-Tac-Toe/blob/master/tictactoe.py)
+# [COMPLETE CODE link](https://github.com/AMIT-ZING/Tic-Tac-Toe/blob/master/TIC-TAC-TOE_console_based.py)
 
 # STRUCTURE :
 
