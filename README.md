@@ -2,9 +2,9 @@
 
 ## `MAKING Tic-Tac-Toe GAME USING PYTHON :`
 Under this project i'm making :  
-* Console based Tic-Tac-Toe game  
-* Tic-Tac-Toe  with a GUI ( Desktop application ) 
-* Tic-Tac-Toe web application  
+>### * Console based Tic-Tac-Toe game  
+>### * Tic-Tac-Toe  with a GUI ( Desktop application ) 
+>### * Tic-Tac-Toe web application  
 
 ## `WHAT IS Tic-Tac-Toe GAME :`    
 Tic-Tac-Toe is a simple game played with 'X' and 'O'. the game board is made up of 3 rows and 3 columns :  
