@@ -205,7 +205,7 @@ In my case I type “python tictactoe.py” ,
 
 ># Tic-Tac-Toe  with a GUI (Desktop application)
 
-# [COMPLETE PROGRAM link](https://github.com/amitkumarsaw/Tic-Tac-Toe/blob/master/TIC-TAC-TOE_GUI.py)
+# [COMPLETE PROGRAM link](https://github.com/amitkumarsaw/Tic-Tac-Toe/blob/master/Tic%20Tac%20Toe%20using%20python/TIC-TAC-TOE_GUI.py)
 
 #  EXPLANATION :
 `First to import everything we will write :`  
