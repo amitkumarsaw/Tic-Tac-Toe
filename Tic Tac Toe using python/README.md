@@ -28,7 +28,7 @@ Personally i'm using "VSCode" but you can also use ,
 
 > # CONSOLE BASED Tic-Tac-Toe GAME :
 
-# [COMPLETE CODE link](https://github.com/AMIT-ZING/Tic-Tac-Toe/blob/master/tictactoe.py)
+# [COMPLETE CODE link](https://github.com/amitkumarsaw/Tic-Tac-Toe/blob/master/tictactoe.py)
 
 # STRUCTURE :
 
@@ -205,7 +205,7 @@ In my case I type “python tictactoe.py” ,
 
 ># Tic-Tac-Toe  with a GUI (Desktop application)
 
-# [COMPLETE PROGRAM link](https://github.com/AMIT-ZING/Tic-Tac-Toe/blob/master/TIC-TAC-TOE_GUI.py)
+# [COMPLETE PROGRAM link](https://github.com/amitkumarsaw/Tic-Tac-Toe/blob/master/TIC-TAC-TOE_GUI.py)
 
 #  EXPLANATION :
 `First to import everything we will write :`  
